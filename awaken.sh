@@ -1,1 +1,1 @@
-python3 font.py
+python3 awaken.py
